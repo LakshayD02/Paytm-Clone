@@ -1,0 +1,274 @@
+/* Mobile Responsive */
+
+
+@media screen and (max-width:767px) {
+    .no-kyc {
+        font-size: 10px;
+    }
+
+    #indiamostlovedimg {
+        display: none;
+    }
+
+    #loginbutton {
+        margin: 3% !important;
+    }
+
+    .row {
+        text-align: center !important;
+    }
+
+    .recharge_paybill h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .book_buy h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .recharge_paybill {
+        margin-top: 1px !important;
+    }
+
+    .book_buy {
+        margin-top: 1px !important;
+    }
+
+    .col-md-2 {
+        padding-bottom: 30px !important;
+    }
+
+    .recharge_paybill .row .col-md-2:hover {
+        border-radius: 40px;
+    }
+
+    .book_buy .row .col-md-2:hover {
+        border-radius: 40px;
+    }
+
+    .rounded {
+        padding-left: 4% !important;
+        border-radius: 20px !important;
+        /* padding-bottom: 70px !important; */
+    }
+
+    .bt {
+        padding-bottom: 6% !important;
+    }
+
+    #paymentresp {
+        font-size: 2rem !important;
+    }
+
+    .paytm-payment-instrumentsimgresp {
+        width: 220px;
+        height: 150px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .bg h1 {
+        font-size: 20px !important;
+
+    }
+
+    .bg p {
+        font-size: 12px !important;
+
+    }
+
+    .bg1 h1 {
+        font-size: 20px !important;
+        /* padding-top: 2px !important; */
+
+    }
+
+    .bg1 p {
+        font-size: 12px !important;
+        /* padding-top: 2px !important; */
+
+    }
+
+    .bgimg {
+        /* font-size: 20px !important; */
+        margin-top: -30px !important;
+
+    }
+
+    .col12center {
+        text-align: center !important;
+
+    }
+
+    .col12center img {
+
+        margin-left: 24%;
+
+    }
+
+    .col12center p {
+        /* text-align: center !important; */
+        margin-left: 5%;
+    }
+
+    .col12center a {
+        /* text-align: center !important; */
+        margin-left: 8%;
+    }
+
+
+
+    .col12center1 {
+        text-align: center !important;
+
+    }
+
+    .col12center1 img {
+
+        margin-left: 10%;
+
+    }
+
+    .col12center1 p {
+        /* text-align: center !important; */
+        margin-left: 5%;
+    }
+
+    .col12center1 a {
+        /* text-align: center !important; */
+        margin-left: 8%;
+    }
+
+    .paytm-money .col-6 {
+        margin-bottom: 15px;
+    }
+
+    .paytm-travel .col-6 {
+        margin-bottom: 15px;
+    }
+
+    footer .cont {
+        margin-left: 23%;
+
+    }
+
+    footer {
+        background-image: none;
+        background-color: rgb(40, 39, 39);
+    /* background-color: #47595e; */
+
+
+
+    }
+
+    footer .row {
+        size: 12px;
+    }
+
+    .col-md-3 {
+        padding-top: 30px !important;
+    }
+
+
+}
+
+
+
+/* tablet responsive */
+
+
+@media screen and (min-width:767px) and (max-width:1023px) {
+    #indiamostlovedimg {
+        width: 400px !important;
+        top: -38px !important
+    }
+
+    .Most-loved-paymentapp h1 {
+        font-size: 2.3rem !important;
+    }
+
+    .Most-loved-paymentapp p {
+        font-size: .9rem !important;
+    }
+
+    .Most-loved-paymentapp {
+        position: relative;
+    }
+
+    #loginbutton {
+        margin: 2% !important;
+    }
+
+    .recharge_paybill .row {
+        padding-left: 120px !important;
+
+    }
+
+    .book_buy .row {
+        padding-left: 120px !important;
+
+
+    }
+
+    .paytm-payment-instrumentsimgresp img {
+        padding-top: 120px;
+    }
+
+    .paytm-payment-instruments .container {
+        padding-bottom: 30px !important;
+    }
+
+    .unlimited-cashback {
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .unlimited-cashback .rounded {
+        padding-left: 11px !important;
+
+    }
+
+    .paytm-money .col-6 {
+        height: 80% !important;
+    }
+
+    .col12center1 p {
+        font-size: 12px;
+    }
+
+    .paytm-travel .col-6 {
+        height: 90% !important;
+    }
+
+    .col12center p {
+        font-size: 12px;
+    }
+
+    .paytm-travel h5 {
+        font-size: 18px;
+    }
+
+    .f1 {
+        font-size: 12px;
+    }
+
+    .f2 {
+        font-size: 15px;
+    }
+
+    .paytm-travel {
+        margin-top: 1% !important;
+    }
+
+    footer .row {
+        background-repeat: no-repeat;
+        margin-top: 4%;
+
+    }
+
+  
+}
+
+
+

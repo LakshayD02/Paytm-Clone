@@ -1,0 +1,319 @@
+*body {}
+
+
+.navcolor {
+    background-color: white;
+
+}
+
+.navcolor a {
+    font-family: sans-serif !important;
+
+    color: black !important;
+    font-size: 18px !important;
+    font-weight: bold;
+
+}
+
+#signin {
+    color: white;
+    font-weight: bold;
+    padding: 9px;
+
+
+}
+
+#loginimg {
+    padding-right: 4px;
+
+
+}
+
+#loginbutton:hover {
+    background-color: #002970 !important;
+}
+
+#loginimg:hover {}
+
+.nav-item a:hover {
+    background-color: #f5f7fa;
+}
+
+.navbar-toggler {
+    color: black !important;
+}
+
+.no-kyc {
+    background-color: #f6f6f5;
+    height: 8vh;
+    margin-top: 4px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+#navbarshadow {
+    box-shadow: 0px 1px 4px 3px #dbd7d7 !important;
+}
+
+.downloadlogo {
+    font-size: 25px;
+}
+
+.downloadlogo1 {
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+#download-app {
+    background-color: black;
+    color: white;
+    border-style: none;
+    font-size: 15px;
+    height: 44px;
+    padding: 0px 24px;
+    border-radius: 30px;
+}
+
+.adjustinmostlovedpaymentapp {
+    margin-top: 130px;
+}
+
+.recharge_paybill {
+    background-color: #00baf2;
+
+}
+
+.book_buy {
+    background-color: #234986;
+
+}
+
+.mt-5 {
+    margin-top: 8rem !important;
+}
+
+.recharge_paybill .row:hover {
+    cursor: pointer;
+}
+
+.recharge_paybill .row .col-md-4:hover {
+    background-color: transparent;
+    background-color: #bdbab9;
+    /* opacity: 0.7; */
+    background-color: rgba(0, 0, 0, 0.1);
+    /* align-items: center; */
+    border-radius: 12px;
+
+
+}
+
+.book_buy .row .col-md-4:hover {
+    background-color: transparent;
+    background-color: #bdbab9;
+    /* opacity: 0.7; */
+    background-color: rgba(0, 0, 0, 0.1);
+    /* align-items: center; */
+    border-radius: 12px;
+
+
+}
+
+#download-app:hover {
+    color: black;
+    background-color: white;
+    border-style: groove;
+}
+
+.book_buy a {
+    text-decoration: none;
+}
+
+.recharge_paybill a {
+    text-decoration: none;
+}
+
+.paytm-payment-instruments {
+    background-color: #f5f7fa;
+}
+
+.unlimited-cashback {
+    background-color: #f5f7fa;
+
+}
+
+.rounded {
+    border-radius: 50px !important;
+    padding-left: 120px !important;
+    padding-bottom: 72px;
+}
+
+.learnmorebtnofpaytminstrument {
+    background-color: #002970 !important;
+    font-weight: bold;
+}
+
+.learnmorebtnofpaytminstrument:hover {
+    background-color: #00baf2 !important;
+    color: white !important;
+    border-style: none !important;
+
+}
+
+#navbarshadow {
+    position: sticky !important;
+    /* top: 0px; */
+}
+
+.bg {
+    background-color: white !important;
+    margin-left: 65 !important;
+    width: 42%;
+    padding-right: 12px !important;
+    margin-top: 50px !important;
+}
+
+.bg1 {
+    background-color: white !important;
+    margin-left: 1% !important;
+    width: 44%;
+    margin-top: 50px !important;
+
+
+
+}
+
+.unlimited-cashback {
+    display: flex;
+    /* margin-top: 30px !important; */
+}
+
+.unlimited-cashback .rounded {
+    border-radius: 4% !important;
+    padding-bottom: 20px;
+}
+
+.businessLearnmore:hover {
+    text-decoration: underline;
+
+}
+
+.businessLearnmore {
+    text-decoration: none;
+
+}
+
+.paytm-moneylearnmore:hover {
+    text-decoration: underline;
+}
+
+.paytm-moneylearnmore {
+    text-decoration: none;
+    color: #00baf2;
+}
+
+.paytm-travellearnmore:hover {
+    text-decoration: underline;
+}
+
+.paytm-travellearnmore {
+    text-decoration: none;
+    color: #00baf2;
+}
+
+.color {
+    background-color: #00baf2;
+    opacity: .8;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.color img {
+    margin: 6%;
+    border-radius: 15px !important;
+}
+
+.color1 {
+    background-color: #00baf2;
+    opacity: .8;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.color1 img {
+    margin: 6%;
+    border-radius: 15px !important;
+}
+
+.color img:hover {
+    transform: scale(1.1);
+    
+}
+
+.color:hover {
+    opacity: 1;
+}
+
+.color1:hover {
+    opacity: 1;
+}
+
+footer {
+    background-image: url("images/footerimg.jpg");
+
+    width: 100%;
+    /* height: 60vh; */
+    padding-bottom: 10%;
+
+
+    background-size: contain;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+
+    margin-top: 10%;
+
+}
+
+.cont {
+    display: flex;
+    margin: 3px;
+}
+
+.cont img {
+
+    margin-right: 3px;
+}
+
+.respicon a {
+    color: white !important;
+    text-decoration: none;
+
+}
+
+footer a {
+    font-size: 14px;
+}
+
+footer span {
+    font-size: 22px;
+    color: aquamarine;
+    margin: 5px;
+
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer span:hover {
+    color: white !important;
+}
+
+.respicon a:hover {
+    color: aquamarine !important;
+    font-weight: bold;
+}
